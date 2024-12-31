@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nawaf 👋  
+**Information Technology Graduate | Machine Learning Enthusiast | Python Developer**  
 
-<!--
-**Nawafosaimi/Nawafosaimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me  
+- 💻 Co-op at **SDAIA**, worked on **Speaker and Language Diarization** projects.  
+- 🔬 Developed a **COVID-19 Detection System** and **IoT Hacking Detection** project.  
+- 🚀 Passionate about IoT security and innovative tech solutions.
 
-Here are some ideas to get you started:
+### Skills  
+- Python | Machine Learning | Data Analysis  
+- HTML | CSS | JavaScript | Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects  
+- [IoT Hacking Detection](https://github.com/Nawafosaimi/IoT-Hacking-Detection)  
+- [COVID-19 Detection Using Chest X-ray ](https://github.com/Nawafosaimi/covid)  
+
+### Contact  
+- 📫 [Email](mailto:Nalosaimi22@gmail.com)  
