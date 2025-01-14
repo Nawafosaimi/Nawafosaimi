@@ -1,14 +1,9 @@
-# Hi, I'm Nawaf 👋  
-**Information Technology Graduate | Machine Learning Enthusiast | Python Developer**  
+# Hi, I'm Nawaf 
+**Information Technology Graduate | Machine Learning | Python Developer**  
 
 ### About Me  
-- 💻 Co-op at **SDAIA**, worked on **Speaker and Language Diarization** projects.  
-- 🔬 Developed a **COVID-19 Detection System** and **IoT Hacking Detection** project.  
-- 🚀 Passionate about IoT security and innovative tech solutions.
-
-### Skills  
-- Python | Machine Learning | Data Analysis  
-- HTML | CSS | JavaScript | Git & GitHub  
+- worked on **Speaker and Language Diarization** projects.  
+- Developed a **COVID-19 Detection System** and **IoT Hacking Detection** project. 
 
 ### Projects  
 - [IoT Hacking Detection](https://github.com/Nawafosaimi/IoT-Hacking-Detection)  
